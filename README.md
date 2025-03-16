@@ -14,5 +14,5 @@ Além disso, há **três botões** que direcionam para minhas redes sociais:
 
 ---
 
-## 📁 Estrutura do Projeto  
+
 
